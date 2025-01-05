@@ -6,8 +6,7 @@ A FastAPI-based authentication service with support for JWT tokens and social au
 
 - JWT Authentication
 - Google OAuth Integration
-- Facebook OAuth Integration
-- SQLite Database (configurable)
+- postgres Database (configurable)
 - Environment-based configuration
 
 ## Prerequisites
